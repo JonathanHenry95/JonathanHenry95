@@ -111,5 +111,5 @@ Outils & Méthodes      ████████░░  Git / GitHub
 
 📧 jonathanhenry.95@outlook.fr · 📞 07.86.55.92.79 · 📍 Île-de-France
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan_HENRY-0077B5?logo=linkedin)](https://linkedin.com/in/[TON-PROFIL](https://www.linkedin.com/in/jonathan-henry/))
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)](https://github.com/thub.com/JonathanHenry95)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan_HENRY-0077B5?logo=linkedin)](https://www.linkedin.com/in/jonathan-henry/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github)](https://github.com/JonathanHenry95)
