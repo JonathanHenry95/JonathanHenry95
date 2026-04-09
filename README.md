@@ -62,7 +62,7 @@ Dashboard de pilotage commercial complet construit en double version : notebook 
 
 **Stack Python :** Pandas · Matplotlib (GridSpec · double axes · Pareto)  
 **Stack Power BI :** Power Query (M) · DAX (YoY · YTD · SAMEPERIODLASTYEAR)  
-📁 [Voir le projet](./projet-dashboard-bi)
+📁 [Voir le projet](https://github.com/JonathanHenry95/projet-dashboard-bi)
 
 ---
 
