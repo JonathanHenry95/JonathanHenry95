@@ -28,7 +28,7 @@ Pipeline d'analyse complet sur un dataset e-commerce réel : segmentation RFM, d
 - Pic de commandes identifié en **Juillet** (+243% vs Septembre)
 
 **Stack :** SQL (CTEs · NTILE · OVER · CASE WHEN) · Python · Pandas · Matplotlib  
-📁 [Voir le projet](./projet-sql-retail)
+📁 [Voir le projet](https://github.com/JonathanHenry95/projet-sql-retail)
 
 ---
 
@@ -44,7 +44,7 @@ Pipeline ML complet de segmentation client : EDA, preprocessing, choix du k opti
 - Segment à réactiver : **165 clients** inactifs · fréquence < 15 achats/an
 
 **Stack :** Python · Scikit-learn (K-Means · PCA · StandardScaler · silhouette_score) · Matplotlib  
-📁 [Voir le projet](./projet-python-segmentation)
+📁 [Voir le projet](https://github.com/JonathanHenry95/projet-python-segmentation)
 
 ---
 
@@ -68,19 +68,21 @@ Dashboard de pilotage commercial complet construit en double version : notebook 
 
 ## Compétences
 
-```
-Analyse de données     ██████████  Python (Pandas, NumPy, Matplotlib)
-                       ████████░░  SQL (CTEs, fenêtrage, agrégations)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
-Machine Learning       ███████░░░  Scikit-learn (K-Means, PCA, silhouette)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=google&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 
-Data Visualisation     ████████░░  Power BI (DAX, Power Query)
-                       ███████░░░  Looker Studio · Tableau
-
-Outils & Méthodes      ████████░░  Git / GitHub
-                       ███████░░░  Excel / VBA
-                       ██████░░░░  Google Analytics (GA4) · GTM
-```
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![GA4](https://img.shields.io/badge/Google%20Analytics-E37400?logo=google-analytics&logoColor=white)
 
 ---
 
