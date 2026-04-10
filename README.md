@@ -16,7 +16,7 @@ Je cherche une alternance où la donnée sert un vrai problème métier. Pas une
 
 ## Projets
 
-### 🛒 Analyse SQL — E-Commerce Churn 2025
+### Analyse SQL — E-Commerce Churn 2025
 > **Dataset :** 2 000 clients · Kaggle 2025 · SQLite
 
 Pipeline d'analyse complet sur un dataset e-commerce réel : segmentation RFM, détection de churn, analyse de saisonnalité et identification des clients à risque via SQL avancé.
@@ -32,7 +32,7 @@ Pipeline d'analyse complet sur un dataset e-commerce réel : segmentation RFM, d
 
 ---
 
-### 🧩 Segmentation Clients — Clustering K-Means
+### Segmentation Clients — Clustering K-Means
 > **Dataset :** 1 000 clients · Kaggle 2024 · Marketing Analytics
 
 Pipeline ML complet de segmentation client : EDA, preprocessing, choix du k optimal (méthode du coude + silhouette), clustering K-Means, visualisation PCA et interprétation métier avec recommandations actionnables.
@@ -48,7 +48,7 @@ Pipeline ML complet de segmentation client : EDA, preprocessing, choix du k opti
 
 ---
 
-### 📊 Dashboard BI — Superstore Sales 2014–2017
+### Dashboard BI — Superstore Sales 2014–2017
 > **Dataset :** 9 994 commandes · 4 ans · USA
 
 Dashboard de pilotage commercial complet entièrement réalisé sous Power BI : pipeline ETL via Power Query, modélisation avec table Calendar, mesures DAX avancées et 5 pages interactives avec navigation, slicers et mise en forme conditionnelle.
@@ -94,7 +94,7 @@ Dashboard de pilotage commercial complet entièrement réalisé sous Power BI : 
 - Conception et automatisation de dashboards (Looker Studio, Excel) → **~40% de temps gagné** sur le reporting
 - Extraction et nettoyage de données multi-sources via Python (Pandas) et SQL
 - Gestion d'une plateforme de veille concurrentielle pour la direction
-- Pilotage de la newsletter interne : A/B testing, suivi KPIs engagement → **+30% de lectorat**
+- Pilotage de la newsletter interne : A/B testing, suivi KPIs engagement
 
 ---
 
