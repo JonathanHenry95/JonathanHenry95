@@ -60,8 +60,9 @@ Dashboard de pilotage commercial complet entièrement réalisé sous Power BI : 
 - Les remises > 20% génèrent des pertes systématiques (marge : **-10% à -119%**)
 - Taux de commandes à perte : **19%** — 1 commande sur 5 est déficitaire
 
-**Stack :** Power BI · Power Query (M) · DAX (YoY · MA3 · SAMEPERIODLASTYEAR · CALCULATE)
+**Stack :** Power BI · Power Query (M) · DAX (YoY · MA3 · SAMEPERIODLASTYEAR · CALCULATE)  
 📁 [Voir le projet](https://github.com/JonathanHenry95/projet-dashboard-bi)
+
 
 ---
 
