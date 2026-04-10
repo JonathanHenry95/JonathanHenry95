@@ -51,17 +51,16 @@ Pipeline ML complet de segmentation client : EDA, preprocessing, choix du k opti
 ### 📊 Dashboard BI — Superstore Sales 2014–2017
 > **Dataset :** 9 994 commandes · 4 ans · USA
 
-Dashboard de pilotage commercial complet construit en double version : notebook Python (Matplotlib) pour GitHub + dashboard Power BI interactif avec mesures DAX et transformations Power Query documentées.
+Dashboard de pilotage commercial complet entièrement réalisé sous Power BI : pipeline ETL via Power Query, modélisation avec table Calendar, mesures DAX avancées et 5 pages interactives avec navigation, slicers et mise en forme conditionnelle.
 
 **Résultats clés :**
 - CA total : **$2.30M** · Profit : **$286k** · Marge moyenne : **12.5%**
 - Croissance CA : **+51%** sur 4 ans (2014 → 2017)
 - Sous-catégorie la plus déficitaire : **Tables** (-$17.7k de profit)
 - Les remises > 20% génèrent des pertes systématiques (marge : **-10% à -119%**)
-- Loi de Pareto : **18 fournisseurs** = 80% du volume total
+- Taux de commandes à perte : **19%** — 1 commande sur 5 est déficitaire
 
-**Stack Python :** Pandas · Matplotlib (GridSpec · double axes · Pareto)  
-**Stack Power BI :** Power Query (M) · DAX (YoY · YTD · SAMEPERIODLASTYEAR)  
+**Stack :** Power BI · Power Query (M) · DAX (YoY · MA3 · SAMEPERIODLASTYEAR · CALCULATE)
 📁 [Voir le projet](https://github.com/JonathanHenry95/projet-dashboard-bi)
 
 ---
