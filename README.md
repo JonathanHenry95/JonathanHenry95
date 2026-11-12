@@ -1,8 +1,7 @@
-# Jonathan HENRY · Data Analyst
+# Jonathan HENRY · Data Analyst @ Lilly France
 
 > 🎓 Master Data Analytics & Marketing Digital — EMLV–IIM  
-> 🔜 Mastère Data Engineer & IA — Efrei Paris (sept. 2026)  
-> 📍 Île-de-France · Recherche alternance 2 ans
+> 🔜 Mastère Data Engineer & IA — Efrei Paris since september 2026  
 
 ---
 
